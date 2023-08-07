@@ -56,7 +56,7 @@ const Home = () => {
           border: 0,
           borderRadius: "4px"
         }}
-      >Change User</button>
+      >Change Profile</button>
     </div>
   );
 };
