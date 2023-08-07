@@ -54,7 +54,8 @@ const Home = () => {
           background: "rgba(255, 0, 0, 0.8)", 
           color: "#fff",
           border: 0,
-          borderRadius: "4px"
+          borderRadius: "4px",
+          cursor: "pointer"
         }}
       >Change Profile</button>
     </div>
